@@ -11,7 +11,7 @@ Anonphisher tool is made with pure bash script and needs required packages for i
 </h2>
 
 # Anonphisher
-![](anonphisher.png)
+![](anon.png)
 
 # Created by
 ```
