@@ -38,7 +38,8 @@ This tool has been tested on the following systems:
 <img src="https://github.com/Samu23/README/blob/main/an.gif"/>
 
 # New Features
-#### [✔] Custom ! 
+#### [+] Custom !
+#### [+] Free fire phishing page !
 #### [+] Latest Login Pages !
 #### [+] 5 Port Forwarding Options !
 #### [+] Easy for Beginners !
