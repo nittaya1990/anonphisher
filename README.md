@@ -11,7 +11,7 @@ Anonphisher tool is made with pure bash script and needs required packages for i
 </h2>
 
 # Anonphisher
-![](anon.png)
+![](and.jpg)
 
 # Created by
 ```
@@ -39,6 +39,7 @@ This tool has been tested on the following systems:
 
 # New Features
 #### [+] Custom !
+#### [+] Pugb free uc phishing page 2021 !
 #### [+] Free fire phishing page !
 #### [+] Latest Login Pages !
 #### [+] 5 Port Forwarding Options !
@@ -101,7 +102,7 @@ bash anonphisher.sh
 
 # Update
 Anonphisher tool will be updated monthly so as to make it much more better and also more templates will be added to the tool for you to use. 
-To updatw the tool, run the <b>bash anonphisher.sh </b>and type number 20 from the list of options that appears..Then you can continue the rest yourself...haha
+To update the tool, run the <b>bash anonphisher.sh </b>and type number 20 from the list of options that appears..Then you can continue the rest yourself...haha
 
 # After you have run the bash install.sh dont run it next time your using it, it will be deleted only run the bash anonphisher.sh ✨✨
 
