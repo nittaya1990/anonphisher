@@ -46,6 +46,7 @@ This tool has been tested on the following systems:
 #### [+] Easy for Beginners !
 #### [+] Wi-fi phishing added! 
 #### [+] Facebook free likes phishing page !
+#### [+] Fortnite phishing page !
 
 # Credits
 <a href="https://t.me/Termux1_bot">Termux1_bot </a>
