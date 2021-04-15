@@ -111,9 +111,15 @@ To update the tool, run the <b>bash anonphisher.sh </b>and type number 20 from t
 # Faqs
 #### [1] What if i dont see the account info in termux? !
 If you do not see the account info in the anonphisher terminal, simply go into the anonphisher logs directory and use the cat command to display the log.
+#### [2] Link is not generating? !
+Run the bash setup 
+Turn on your device hotspot then select ngrok
+Of link doesnt still generate, go to ngrok.com, download ngrok, set it up in termux, then copy your authtoken and paste it into your termuxhack home
+Then turn on your device hotspot and run ./ngrok http 3333
+After go back to the Anonphisher session and select ngrok
 
 # Version
 ```
-Version 1.0 beta
+Version 1.1 beta
 ```
 
