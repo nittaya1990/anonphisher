@@ -47,6 +47,7 @@ This tool has been tested on the following systems:
 #### [+] Wi-fi phishing added! 
 #### [+] Facebook free likes phishing page !
 #### [+] Fortnite phishing page !
+#### [+] Credit card and call of duty phishing pages !
 
 # Credits
 <a href="https://t.me/Termux1_bot">Termux1_bot </a>
