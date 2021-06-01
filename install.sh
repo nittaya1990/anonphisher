@@ -4,7 +4,7 @@
 clear
 
 echo ""
-echo -e "\e[1;34m Installing \e[0m\e[1;35mRequirements.. \e[0m"
+echo -e "\e[1;34m Installing \e[0m\e[1;35mRequirements into your terminal.. \e[0m"
 sleep 0.5
 pip install lolcat
 pkg install figlet
@@ -51,7 +51,7 @@ echo "Phishing tool created by AnonyminHack5" | lolcat
 echo ""
 menu() {
 sleep 0.5
-printf "\e[1;97mNeed my telegram bot?\e[0m"
+printf "\e[1;97mDo you Need my telegram bot?\e[0m"
 sleep 0.5
 printf "\n"
 sleep 0.5
