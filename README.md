@@ -27,11 +27,15 @@ This tool has been tested on the following systems:
 
 [✔] Windows
 
+[✔] lubuntu
+
 [✔] Ubuntu
+
+[✔] Slax Linux
 
 # Features
 <p align="center">
- Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers.....+30
+ Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, fortnite, cod...+30
 </p>
 
 # Workflow
@@ -106,7 +110,8 @@ bash anonphisher.sh
 Anonphisher tool will be updated monthly so as to make it much more better and also more templates will be added to the tool for you to use. 
 To update the tool, run the <b>bash anonphisher.sh </b>and type number 20 from the list of options that appears..Then you can continue the rest yourself...haha
 
-# After you have run the bash install.sh dont run it next time your using it, it will be deleted only run the bash anonphisher.sh ✨✨
+<h4>After you have run the bash install.sh dont run it next time your using it, it will be deleted only run the bash anonphisher.sh ✨✨
+</h4>
 
 # Faqs
 #### [1] What if i dont see the account info in termux? !
@@ -120,6 +125,6 @@ After go back to the Anonphisher session and select ngrok
 
 # Version
 ```
-Version 1.1 beta
+Version 1.2 updated
 ```
 
