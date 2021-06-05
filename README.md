@@ -127,4 +127,5 @@ After go back to the Anonphisher session and select ngrok
 ```
 Version 1.2 updated
 ```
-
+# Having Issues? 🔍
+<b> Send your issues to me personally at AnonyminHack5@protonmail.com 💌 and I will respond to you as quick as I can.</b>
